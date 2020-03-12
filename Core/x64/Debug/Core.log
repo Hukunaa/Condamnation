@@ -1,0 +1,5 @@
+﻿  App.cpp
+D:\PROG\BACKUP_ISART\PFA\Core\src\App.cpp(39,15): warning C4244:  'argument' : conversion de 'time_t' en 'unsigned int', perte possible de données
+  Core.vcxproj -> D:\PROG\BACKUP_ISART\PFA\x64\Debug\Core.exe
+          1 fichier(s) copié(s).
+          1 fichier(s) copié(s).
